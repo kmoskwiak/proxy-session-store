@@ -1,0 +1,11 @@
+{
+  "name": "proxy-session-store",
+  "version": "1.0.0",
+  "description": "Proxy session store for express-session allows to use any session store through http API.",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Kasper Moskwiak",
+  "license": "ISC"
+}
